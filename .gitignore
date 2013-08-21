@@ -1,3 +1,5 @@
 work
 *.wlf
 *.log
+*.vcd
+transcript
